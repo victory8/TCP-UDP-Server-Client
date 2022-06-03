@@ -1,6 +1,5 @@
 #include "server.h"
 #include "client.h"
-#include "mytimer.h"
 
 #include <QApplication>
 
